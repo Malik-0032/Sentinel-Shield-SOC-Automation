@@ -1,7 +1,7 @@
 # Sentinel Shield 🛡️
 
 An advanced Security Operations Center (SOC) automation framework that streamlines security event management, incident response, and threat intelligence enrichment through seamless integration using Wazuh, Shuffle, and TheHive. This project enhances incident response efficiency by automating event correlation, alerting, and response workflows. 
-![PixelPulse Analytics](SOC Automation-Project.jpg)
+![Sentinel-Shield-SOC-Automation](SOC Automation-Project.jpg)
 
 ## 🌟 Features
 
@@ -46,7 +46,7 @@ The project implements a multi-tier architecture with the following components:
 - SMTP server for email notifications
 - Python 3.8+
 
-###⚙️ Installation
+### ⚙️ Installation
 
 1. Clone the repository
 ```bash
@@ -67,7 +67,7 @@ systemctl start thehive
 ```
 
 ### 🔍Workflow
-![PixelPulse Analytics](Workflow.jpg.jpg)
+![Sentinel-Shield-SOC-Automation](Workflow.jpg.jpg)
 
 1. **Event Generation**: Windows 10 Wazuh Agent sends security events to Wazuh Manager.
 2. **Alert Triggering**: Wazuh Manager generates alerts based on security policies.
