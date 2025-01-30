@@ -69,7 +69,7 @@ systemctl start thehive
 
 ### 🔍Workflow
 
-![Sentinel-Shield-SOC-Automation](Workflow.jpg.jpg)
+![Sentinel-Shield-SOC-Automation](Workflow.jpg)
 
 1. **Event Generation**: Windows 10 Wazuh Agent sends security events to Wazuh Manager.
 2. **Alert Triggering**: Wazuh Manager generates alerts based on security policies.
